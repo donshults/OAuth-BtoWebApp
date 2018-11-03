@@ -28,7 +28,6 @@ namespace TestWebAPI.Controllers
                     ReasonPhrase = "Only Trusted callers are allowed. Your identity: " +currentCallerClientId}
                     );
             }
-
         }
     }
 }

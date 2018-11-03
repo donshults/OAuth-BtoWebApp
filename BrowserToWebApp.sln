@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServiceClient", "AppServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSvcDaemon", "LocationSvcDaemon\LocationSvcDaemon.csproj", "{A0263FCF-7C9B-43C2-854E-6BAC207A9B7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSvcClient", "LocationSvcClient\LocationSvcClient.csproj", "{B541AB6A-993D-4E3C-BB62-81178003EEF0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{A0263FCF-7C9B-43C2-854E-6BAC207A9B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0263FCF-7C9B-43C2-854E-6BAC207A9B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0263FCF-7C9B-43C2-854E-6BAC207A9B7D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B541AB6A-993D-4E3C-BB62-81178003EEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B541AB6A-993D-4E3C-BB62-81178003EEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B541AB6A-993D-4E3C-BB62-81178003EEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B541AB6A-993D-4E3C-BB62-81178003EEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
